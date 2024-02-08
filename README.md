@@ -4,8 +4,8 @@ The application features user authentication (registration, login, logout) and b
 <h2>Technology used</h2> <br />
 Flask, MySQL, HTML, CSS, Python
 <h2>Key Features</h2> <br />
-- User registration and login with session management.
-- Secure password storage and authentication.
-- Integration of MySQL database for data persistence.
-- Implementation of basic CRUD operations.
-- Responsive front-end design using HTML and CSS.
+- User registration and login with session management.<br />
+- Secure password storage and authentication.<br />
+- Integration of MySQL database for data persistence.<br />
+- Implementation of basic CRUD operations.<br />
+- Responsive front-end design using HTML and CSS.<br />
